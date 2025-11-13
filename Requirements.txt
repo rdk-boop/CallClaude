@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit>=1.51.0
+
+# Financial data
+yfinance>=0.2.40
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.7.0
+
+# Scientific computing (for options pricing)
+scipy>=1.11.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Date handling
+python-dateutil>=2.8.2
+
+# Additional utilities
+openpyxl>=3.1.0
